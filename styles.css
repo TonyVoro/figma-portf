@@ -204,7 +204,7 @@ footer {
 }
 
 .head-box-master {
-    display: flex;
+    display: grid;
 }
 
 
